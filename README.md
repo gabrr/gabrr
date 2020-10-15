@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="Emy's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=gabrr&show_icons=true&theme=radical" />
+
 <!--
 **gabrr/gabrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
