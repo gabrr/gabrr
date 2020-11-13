@@ -3,9 +3,12 @@
 My name is Gabriel, I am a self-taught fullstack developer, passionate about crafting experiences.
 I’m currently working on a fullstack project called gabrr money to help people manage their budgets.
 
-### Stack I've worked with
+### Tech I've worked with
 - React Js
 - React Native
+- Redux
+- Git
+- CSS
 - Mongo DB
 - Docker
 - GraphQL
