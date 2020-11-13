@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Gabriel, I am a self-taught fullstack developer, passionate about crafting experiences.
-I’m currently working on a `fullstack project called gabrr money` to help people manage their budgets.
+I’m currently working on a **fullstack project called gabrr money** to help people manage their budgets.
 
 ### Tech I've worked with
 - React Js
