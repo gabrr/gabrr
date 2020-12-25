@@ -22,10 +22,7 @@ I’m currently working on a **fullstack project called gabrr money** to help pe
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-- GraphQL
-- Rest API
-- Apollo Server
+<img src="https://twenty-tech.com/wp-content/uploads/2019/01/logo-2.png" width="75px" height="28px" />
 
 <img alt="gabrr's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=gabrr&show_icons=true&theme=radical" />
 
