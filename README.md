@@ -18,12 +18,13 @@ I’m currently working on a **fullstack project called gabrr money** to help pe
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![image](<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>)
+![image](<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>)
+![image](<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>)
+![image](<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>)
 
-- Git
-- Docker
 - GraphQL
 - Rest API
-- Express JS
 - Apollo Server
 
 <img alt="gabrr's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=gabrr&show_icons=true&theme=radical" />
