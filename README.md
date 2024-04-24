@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Gabriel, I am a self-taught fullstack developer, passionate about crafting experiences.
-I’m currently working on a **fullstack project called gabrr money** to help people manage their budgets.
+Hi I'm Gabriel, I am a self-taught fullstack developer, passionate about crafting experiences.
+Currently working on a **fullstack project called Welzel Wealth** to make very easy for anyone to invest.
 
 ### Stack I've worked with
 
