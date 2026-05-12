@@ -8,13 +8,14 @@ Recent work includes B2B ads/reporting products at Metadata, AI model-building U
 
 ---
 
-### What I care about
+### What I’m strongest at
 
-- Clean, scalable UI architecture
-- Design systems and reusable components
-- Performance, accessibility, and testing
-- Shipping AI features end-to-end (not just demos)
-- Building things that actually move business metrics
+- Turning ambiguous product direction into shippable UI
+- Building complex React/TypeScript interfaces with global and local state
+- Designing usable flows for data-heavy and AI-assisted products
+- Improving frontend performance and perceived speed
+- Creating reusable UI systems and component patterns
+- Collaborating closely with product, design, backend, and founders
 
 ---
 
