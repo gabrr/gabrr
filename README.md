@@ -1,9 +1,12 @@
 ## Hi, I'm Gabriel
 
-Senior Frontend Engineer (React • Angular • TypeScript) building products and platforms with strong DX, performance, and business impact in mind.
+## Hi, I'm Gabriel
 
-Currently at **MDF Commerce**, working on a large-scale **Angular 18 UI platform / design system** used across multiple enterprise products.  
-Big fan of shipping AI-powered features with **local models, RAG, and smart tooling**.
+I'm a Senior Frontend Engineer who builds responsive, polished, easy-to-use interfaces without slowing down launch dates, even when specs are unclear.
+
+I’m strongest in product-heavy frontend work: complex state, data-heavy flows, UX details, performance, and close collaboration with product, design, backend, and founders.
+
+Recent work includes B2B ads/reporting products at Metadata, AI model-building UI at Savvi AI, and shared UI infrastructure/accessibility at MDF Commerce.
 
 ---
 
