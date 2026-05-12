@@ -1,7 +1,5 @@
 ## Hi, I'm Gabriel
 
-## Hi, I'm Gabriel
-
 I'm a Senior Frontend Engineer who builds responsive, polished, easy-to-use interfaces without slowing down launch dates, even when specs are unclear.
 
 I’m strongest in product-heavy frontend work: complex state, data-heavy flows, UX details, performance, and close collaboration with product, design, backend, and founders.
