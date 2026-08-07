@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 8+ years of experience specialized in building complex UI interfaces with React, Next and AngularJS. In career I have helped companies increase 73% perceived speed, achieve WCAG compliance, create highly customized web components and improve user experience with smooth custom animations.
 
-I am currently building an AI native finance app Acetate.me to help people see how one decision now can impact wealth in the future.
+I am currently building an AI native finance app [Acetate](https://acetate.me) to help people see how one decision now can impact wealth in the future.
 
 ---
 
