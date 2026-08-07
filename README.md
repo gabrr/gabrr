@@ -1,10 +1,8 @@
 ## Hi, I'm Gabriel
 
-I'm a Senior Frontend Engineer who builds responsive, polished, easy-to-use interfaces without slowing down launch dates, even when specs are unclear.
+Senior Software Engineer with 8+ years of experience specialized in building complex UI interfaces with React, Next and AngularJS. In career I have helped companies increase 73% perceived speed, achieve WCAG compliance, create highly customized web components and improve user experience with smooth custom animations.
 
-I’m strongest in product-heavy frontend work: complex state, data-heavy flows, UX details, performance, and close collaboration with product, design, backend, and founders.
-
-Recent work includes B2B ads/reporting products at Metadata, AI model-building UI at Savvi AI, and shared UI infrastructure/accessibility at MDF Commerce.
+I am currently building an AI native finance app Acetate.me to help people see how one decision now can impact wealth in the future.
 
 ---
 
